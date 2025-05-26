@@ -320,3 +320,25 @@ body {
         font-size: 1.5rem;
     }
 }
+
+
+.download-button-wrapper {
+    text-align: right;
+    padding: 20px;
+    background-color: #f7f7f7;
+}
+
+.download-btn {
+    background-color: #2d9cdb;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 6px;
+    font-weight: bold;
+    font-family: "Poppins", sans-serif;
+    transition: background-color 0.3s ease;
+}
+
+.download-btn:hover {
+    background-color: #1a7bbd;
+}
